@@ -11,4 +11,4 @@ Implementation results:
 - D*: (Upcoming)
 
 Reference:
-- The implementation is inspired by [https://github.com/AtsushiSakai/PythonRobotics](PythonRobotics) by Atsushi Sakai.
+- The implementation is inspired by [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) by Atsushi Sakai.
